@@ -17,7 +17,13 @@ En este repositorio subiré mis notas y material propio sobre este curso de Plat
 
 ## Proyectos
 
+### Local
+
 - [Chambasaurio](./programas/job-extintion/README.md)
+
+### En línea
+
+- [Chambasaurio](https://github.com/MrDonkey08/job-extintion/tree/0f31a8e6879ef6d47ed3a2c2dfed35052ec99b6f)
 
 ## Habilidades Aprendidas
 
