@@ -17,7 +17,7 @@ En este repositorio subiré mis notas y material propio sobre este curso de Plat
 
 ## Proyectos
 
-- [Chambasaurio](./programas/job-extintion/)
+- [Chambasaurio](./programas/job-extintion/README.md)
 
 ## Habilidades Aprendidas
 
