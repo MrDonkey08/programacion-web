@@ -1,0 +1,3 @@
+[submodule "job-extintion"]
+	path = programas/job-extintion
+	url = https://github.com/MrDonkey08/job-extintion.git
