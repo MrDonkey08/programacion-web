@@ -1,5 +1,5 @@
 ---
-title: Programación Básica 
+title: Programación Básica
 author: Alan Yahir Juárez Rubio
 
 type: Curso
@@ -29,17 +29,17 @@ En este repositorio subiré mis notas y material propio sobre este curso de Plat
 
 - HTML
 - JS
-	- Frontend
-		- Renderizado dinámico de HTML
-		- POO
-		- Canvas
+  - Frontend
+    - Renderizado dinámico de HTML
+    - POO
+    - Canvas
     - Backend
-		- NodeJS
+    - NodeJS
 - CSS
-	- Grid
-	- Flexbox
-	- Media queries
-	- Resposive Design
+  - Grid
+  - Flexbox
+  - Media queries
+  - Resposive Design
 
 ## Certificación
 
